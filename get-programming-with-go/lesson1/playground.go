@@ -9,4 +9,5 @@ func main() {
 	fmt.Println("Hello, 天地")
 	fmt.Println("Hello, мир")
 	fmt.Println("Hello, Mundo")
+	fmt.Println("Hello, 세계")
 }
